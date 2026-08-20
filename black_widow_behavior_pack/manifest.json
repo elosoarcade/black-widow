@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Black Widow (B)",
+		"description": "Adds Black Widow to Bedrock by El Oso Arcade",
+		"uuid": "e2e31ad3-82f5-2956-3bbf-78e58a546932",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 26, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Black Widow MCBE Add-On",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/black-widow"
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "944bb259-51f0-37b5-0c27-9e7835020e27",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "87aabb27-b065-3807-dfe6-5543b3f4f281",
+			"version": [1, 0, 0]
+		}
+	]
+}
