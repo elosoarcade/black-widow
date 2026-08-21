@@ -4,7 +4,7 @@
 		"name": "Black Widow (R)",
 		"description": "Adds Black Widow to Bedrock by El Oso Arcade",
 		"uuid": "87aabb27-b065-3807-dfe6-5543b3f4f281",
-		"version": [1, 0, 0],
+		"version": [1, 0, 1],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "Black Widow",
 			"type": "resources",
 			"uuid": "6ecc4b54-3d06-66af-a845-47b42a9ebcbc",
-			"version": [1, 0, 0]
+			"version": [1, 0, 1]
 		}
 	]
 }
