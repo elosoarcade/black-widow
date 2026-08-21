@@ -8,3 +8,5 @@ The Black Widow doesn't deal damage with its bite, but inflicts the Wither effec
 - ✨ EXP: 1
 
 _This add-on is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and it's available in English, Español, Português, Français, Italiano, Deutsch, Русский, 日本語, 한국어, and 中文._ 🇬🇧 🇲🇽 🇧🇷 🇨🇵 🇮🇹 🇩🇪 🇷🇺 🇯🇵 🇰🇷 🇨🇳
+
+<img width="1200" height="675" alt="black-widow-cover_20260820_195717_0000" src="https://github.com/user-attachments/assets/593064c4-143b-4ac3-bdee-c1136274d009" />
